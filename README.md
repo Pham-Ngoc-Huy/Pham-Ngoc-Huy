@@ -16,7 +16,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-Science-orange) ![VHDL](https://img.shields.io/badge/VHDL-FPGA-red)  
 
 📊 **GitHub Stats:**  
-![Pham-Ngoc-Huy](https://github-readme-stats.vercel.app/api?username=Pham-Ngoc-Huy&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pham-Ngoc-Huy&layout=compact&theme=radical)
 
 ⭐ **Fun Fact:** Born in 2001, fascinated by solving complex data problems.  
 
